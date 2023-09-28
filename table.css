@@ -1,0 +1,39 @@
+#myTable input {
+	margin-left: 5px;
+}
+
+#myTable {
+	border:2px solid green;
+	border-collapse: collapse;
+	margin: 30px 30px 20px 40px;
+}
+#myTable td, th {
+	border:1px solid green;
+	padding: 5px;
+}
+#myTable th {
+	color: #fff;
+	background-color: #a7c942;
+}
+tr.dropDownTextArea {
+	display: none;
+}
+tr.hidden {
+	display: none;
+  }
+.expand-arrow {
+	transition: transform 0.3s ease;
+  }
+  
+delete-button{
+	display:none;
+}  
+edit-button{
+	display:none;
+}
+.delete-button-hidden {
+	display: none;
+  }
+  tr.data-row {
+	display: none;
+  }
